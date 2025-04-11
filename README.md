@@ -46,29 +46,21 @@ Software can perform the following functions such as:
 - Teaches you the topics covered in the project and allows you to take a test.
 <br />
 <br />
-The IDE (Integrated Development Environment) used to program with Python and Tkinter, is IDLE (Python 3.9 64-bit).The software calculator uses a number of libraries such as, "Sympy", "Numpy"
+The IDE (Integrated Development Environment) used to make the software project is IDLE (Python 3.9 64-bit).
 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Program walkthrough:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/mDP6K3D.png)" height="80%" width="80%" alt="Main Menu"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/60a75af1-06e7-4eff-9f49-f459b6f79872)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
