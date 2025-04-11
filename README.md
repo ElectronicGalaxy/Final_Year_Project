@@ -67,13 +67,17 @@ Which shows a variety of topics for the user to select.
 <br />
 <br />
 <br />
-After clicking the "differentiation button" from the image above, will display the following window <br />that will allow users to enter the expression to be differentiated. The "*" means multiplication and "**" means exponential in Python. For example, "cos(x)**2" = cos(x)^2.
+After clicking the "differentiation button" from the image above, the following window is opened for user to<br />enter the expression to be differentiated. The "*" means multiplication and "**" means exponential in Python.<br /> For example, "cos(x)**2" = cos(x)^2.
 <br />
-<img src="https://imgur.com/IyCQDu6" height="40%" width="40%" alt="Derivative Window"/>
+<img src="https://imgur.com/IyCQDu6.png" height="40%" width="40%" alt="Derivative Window"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+The "Equation Calculator" selected from the Maths and Physics window, allows the user to enter an equation <br/>
+where the left and right entry box represent the left and right side of the equation respectively.
+<br />
+<img src="https://imgur.com/a/DoYa9DX.png" height="40%" width="40%" alt="Equation Calculator"/>
+<br />
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
