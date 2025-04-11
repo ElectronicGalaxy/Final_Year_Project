@@ -67,8 +67,9 @@ Which shows a variety of topics for the user to select.
 <br />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After clicking the "differentiation button" from the image above, will display the following window <br />that will allow users to enter the expression to be differentiated. The "*" means multiplication and "**" means exponential in Python. For example, "cos(x)**2" = cos(x)^2.
+<br />
+<img src="https://imgur.com/IyCQDu6" height="40%" width="40%" alt="Derivative Window"/>
 <br />
 <br />
 Confirm your selection:  <br/>
