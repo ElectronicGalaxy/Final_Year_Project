@@ -1,7 +1,7 @@
 # Final_Year_Project
-# Work in progress
 
-<h1>JWipe - Disk Sanitization</h1>
+<h2>Mathematical Calculator</h2>
+For my final year project at University of Westminster, I created the mathematical calculator that can calculate the answers of various mathematical and physics questions. For example, the software can solve an equations such as "x + 2 = 10x - 1" or "x^2 + 10x + 16". The project was made in mind for GCSE students, A-level students and those like me with a keen interest in mathematics and physics.
 
  ### [Final Year Project - Video Demonstration](https://drive.google.com/file/d/1O0AjKLSUajBq2kFg37jAmmMYKbmMu849/view?usp=drive_link)
 
