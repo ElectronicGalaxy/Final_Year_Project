@@ -54,13 +54,17 @@ The IDE (Integrated Development Environment) used to make the software project i
 <h2>Program walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/mDP6K3D.png)" height="80%" width="80%" alt="Main Menu"/>
+This is the first window that displays onto the screen with four options to choose from.
+<br />
+<img src="https://i.imgur.com/mDP6K3D.png" height="40%" width="40%" alt="Main Menu"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="![image](https://github.com/user-attachments/assets/60a75af1-06e7-4eff-9f49-f459b6f79872)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+After selecting the "Maths and Physics" button, the window below is displayed.<br/> 
+Which shows a variety of topics for the user to select.
+<br /> 
+<img src="https://i.imgur.com/xmXiQff.png" height="49%" width="49%" alt="Maths and Physics Window"/>
+<br />
 <br />
 <br />
 Enter the number of passes: <br/>
