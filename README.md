@@ -86,12 +86,12 @@ the equation.
 The "Graphing Calculator" selected from the Main Menu, allows the user to enter a function which is then displayed <br/>
 onto another window.
 <br />
-<img src="https://imgur.com/9zuZcWL.png" height="40%" width="40%" alt="Graphing Calculator"/>
+<img src="https://imgur.com/9zuZcWL.png" height="49%" width="49%" alt="Graphing Calculator"/>
 <br />
 <br />
 <br />
-From the Main Menu <br/>
-<img src="https://imgur.com/KTdACMM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The electronics button from the Main Menu <br/>
+<img src="https://imgur.com/KTdACMM.png" height="44%" width="44%" alt="Electronics Circuit"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
