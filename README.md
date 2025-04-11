@@ -76,7 +76,10 @@ After clicking the "differentiation button" from the image above, the following 
 The "Equation Calculator" selected from the Maths and Physics window, allows the user to enter an equation <br/>
 where the left and right entry box represent the left and right side of the equation respectively.
 <br />
-<img src="https://imgur.com/a/DoYa9DX.png" height="40%" width="40%" alt="Equation Calculator"/>
+Once the user enters the equation and clicks "Solve Equation" button, the software then diplays the roots of <br />
+the equation. 
+<br /> 
+<img src="https://imgur.com/IN4ootU.png" height="40%" width="40%" alt="Equation Calculator"/>
 <br />
 <br />
 <br />
