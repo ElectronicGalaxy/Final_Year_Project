@@ -83,19 +83,29 @@ the equation.
 <br />
 <br />
 <br />
-The "Graphing Calculator" selected from the Main Menu, allows the user to enter a function which is then displayed <br/>
-onto another window.
+The "Graphing Calculator" selected from the Main Menu, allows the user to enter a function which is then displayed <br />
+onto another window. The Graph Calculator enables you to zoom to fully see and verify the coordinates of intersection. <br />
 <br />
 <img src="https://imgur.com/9zuZcWL.png" height="49%" width="49%" alt="Graphing Calculator"/>
 <br />
 <br />
 <br />
-The electronics button from the Main Menu <br/>
+The electronics circuit window opens after clicking the "Electronics" button from the Main Menu.<br />
+This allows users to create simple circuit simulations and view information based on the user's choice.<br />
 <img src="https://imgur.com/KTdACMM.png" height="44%" width="44%" alt="Electronics Circuit"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+The window provides users to choose which topic the user would like learn and to test their knowledge.<br/>
+This is to build confidence in their knowledge and a appreciation for what they are learning.<br />
+<img src="https://imgur.com/zvw7BgY.png" height="44%" width="44%" alt="Test and Explanation"/>
+<br />
+<br />
+<br /> 
+Many other functionalities of the software was not shown here. The purpose of this video was showcase <br /> 
+the main functions of the software as a all-in-one, simple to use software that can be used as a teaching tool.
+<br />
+<br />
 </p>
 
 <!--
