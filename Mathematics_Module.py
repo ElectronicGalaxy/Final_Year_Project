@@ -1,6 +1,6 @@
 #
 #
-#   Author: David Rich-Seam
+#   Author: David
 #
 #   Last Updated: 30/03/2022
 #
@@ -63,7 +63,7 @@ class Mathematics_Class:
         InputStatus = False     # If the user's input is valid, the function will return true
         
 
-        # Passses each number inside the InputList into the validation function
+        # Passes each number inside the InputList into the validation function
         for i in range(0, len(InputList)):
             InputList[i] = self.InputValidation_Float(InputList[i])
 
@@ -442,7 +442,6 @@ class Mathematics_Class:
                         # the program will check each input to see if it's a number and then converts to float
                         Values[i][j] = float(Coefficients_Lin1[j])
                     except ValueError:
-                        #print("Please enter a number and try again.\n\n")
                         return InputStatus
                     except Exception:
                         return InputStatus
@@ -662,41 +661,6 @@ class Mathematics_Class:
         x = sym.Symbol('x')
         return round(self.F(x), 3)
 
-        
-#MyObject = Mathematics_Class()
-
-#a = input("Enter a value: ")    # This represents the length of the line in the real-axis (x-axis)
-#b = input("Enter another value: ") # This represents the length of the line in the imaginary-axis (y-axis)
-#print(" ")
-
-#MyObject.ComplexNumber_RecToPolar(a, b) 
-
-#print("\n\n")
-#AbsoluteValue = input("Enter a number for the modulus: ")
-#Angle = input("Enter a number for the angle in degrees: ")
-
-#MyObject.ComplexNumber_PolarToRec(AbsoluteValue, Angle)
-
-#MyObject.Calculus_Derivatives() # Pretty much finished - Needs a bit more testing
-#print(" ")
-#print(" ")
-#MyObject.Derivatives_QuotientRule(a, b)
-#MyObject.SystemOfEquations()    # Mostly finished. Needs a bit more testing.
-#print(" ")
-#print(" ")
-#print(" ")
-#MyObject.PolynomialFactorization_Calculator() # **Finshed** - More notes needs to be made for what triggers errors for this function.
-#print(" ")
-#print(" ")
-#MyObject.QuadraticSolution_Function()                  # **Finished** - More notes neeeds to be made on what triggers an error for this function
-#print(" ")
-#print(" ")
-#MyObject.Integration()  #Needs to be tested more.
-#print(" ")
-#print(" ")
-#MyObject.HyperbolicFunction_Calculator()   #**Finshed**
-#print(" ")
-#print(" ")
 
 #NOTE:
 #
@@ -704,92 +668,6 @@ class Mathematics_Class:
 # to an expression that can be numerically evaluated.
 # Lambdify acts like a lambda function, except it, converts the SymPy names
 # to the names of the given numerical library, usually NumPy or math
-
-
-# ********* To-do list *********
-#
-# Improve the input-checker function - (Needs more work)
-# Add a function to calculate the quotient rule for derivatives - (Needs more work)
-# Add a function to calculate sineh(x), cosh(x) and tanh(x)
-# Add a function to calculate integration
-#
-
-# InputValidation_Float()
-# InputValidation_Int()
-# ComplexNumber_RecToPolar()
-# ComplexNumber_PolarToRec()
-# Calculus_Derivatives()
-# Derivatives_QuotientRule()
-# QuadraticFactorization_Calculator()
-# QuadraticSolution_Function()
-# SystemOfEquations()
-# Integration()
-# GetComlexNumber()
-# GetTheta()
-# GetModulus()
-# GetDerivative()
-# GetFactoredQuadratic()
-# GetRealRoot()
-# GetRealRoots()
-# GetSystemOfEquation_LinearRoots()
-# GetIntegral()
-#
-#
-
-"""
- def SystemOfEquations(self):
-        print("Please enter the numbers for A, B and C,")
-        print("for the two functions in the form Ax + By = C \n")
-
-        Values = [[0.0 for i in range(0, 3)], [0.0 for i in range(0, 3)]]
-        
-        for i in range(0, 2):
-            for j in range(0, 3):
-                try:
-                    Values[i][j] = float(input(f"Please enter a number for [{i}][{j}] = "))
-                except ValueError:
-                    print("Please enter a number and try again.\n\n")
-                    break
-                    return
-                except Exception:
-                    print("Something went wrong.\n")
-                    return
-        
-        EquationA = np.array( [[Values[0][0], Values[0][1]], [Values[1][0], Values[1][1]]] )    # 3x + 8y = 15, 2x - 8y = 10
-        EquationB = np.array([Values[0][2], Values[1][2]])
-        
-        # Try and except needs to be put here...
-        # To be tested more
-        try:
-            Result = np.linalg.solve(EquationA, EquationB)
-        except Exception:
-            print("The two lines have ethier no solutions or infinite solutions")
-            return
-        
-        print(" ")
-        print(f"Point of intersection: ({Result[0]} ,{Result[1]})")
-        self.LinearResult = Result
-        print(f"Point of intersection: ({self.LinearResult[0]} ,{self.LinearResult[1]})")
-
-
-"""
-
-#Helpful code
-#
-# for i in a.split(" "):
-#   b.append(int(i))
-#
-# for i in range(0, len(b)):
-#   print(f"{b[i]} is of type: ", type(b[i]))
-#    
-# This code takes a number and displays the data type
-# If a person enters two numbers in the same line, the for loop will
-# go through each number and whenever it meets a space, it will know
-# to store the number in a seperate slot.
-#
-# The "split" function tells the program to split the numbers whenever
-# it encounters a space.
-#
 
 
 #SymPy is a Python library for symbolic mathematics.
