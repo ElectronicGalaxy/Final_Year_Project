@@ -1068,39 +1068,3 @@ class Physics_Class:
         return self.ProjectileAngle
             
         
-
-        
-
-#MyObject = Physics_Class()
-
-#MyObject.Mechanics_InclinedPlane()
-
-# Kinematics formulae
-# Formulas: Vf = V0 + at, Δx = t*(v + v0)/2, Δx = V0*t + (a*t^2)/2,
-# Vf^2 = V0^2 + 2a*Δx
-# Vf = Final velocity, V0 = Initial velocity, x = Displacement
-#MyObject.Mechanics_ProjectileMotion()
-#MyObject.Mechanics_KinematicEquations()
-#MyObject.Mechanics_PM_Platform()
-#MyObject.AngularVelocityAndAccelaration()
-#MyObject.RLC_Circuits()
-#MyObject.Resonant_Circuits_Parallel()
-
-
-"""
-########### Key Reminder ############
-
-MAKE SURE YOU CHECK WHICH VARIABLES SHOULD STORE NEGATIVE OR POSITIVE NUMBERS!!!
-YOU CAN'T HAVE NEGATIVE DISTANCE, BUT YOU CAN HAVE NEGATIVE DISPLACEMENT.
-
-GO THROUGH EVERY FUNCTION AND ENSURE NO LOGICALLY INVALID INPUT IS ALLOWED!!!!
-
-######################################
-
-inclined plane, kinematic equations, projectile motion, angular velocity and acceleration,
-ohm's law (For series and parallel circuits), RLC circuits, resonant circuits, ac theory,
-magnetic flux density, magnetic flux and electromagnetic induction.
-
-
-"""
-
