@@ -13,37 +13,37 @@ The software was developed using Python, due to the large wealth of libraries th
 Software can perform the following functions such as:
 <br />
 <br />
-- Calculate equations of many kinds (linear, quadratic, exponential, trigonometric).
+- <b>Calculate equations of many kinds (linear, quadratic, exponential, trigonometric).</b>
 <br />
 <br />
-- Convert rectangular coordinates into polar form and convert polar coordinates into rectangular form.
+- <b>Convert rectangular coordinates into polar form and convert polar coordinates into rectangular form.</b>
 <br />
 <br />
-- Differentiate and integrate functions.
+- <b>Differentiate and integrate functions.</b>
 <br />
 <br />
-- Factorise algebraic expressions.
+- <b>Factorise algebraic expressions.</b>
 <br />
 <br />
-- Evaluate hyperbolic functions.
+- <b>Evaluate hyperbolic functions.</b>
 <br />
 <br />
-- Performs arithmetic like a normal calculator.
+- <b>Performs arithmetic like a normal calculator.</b>
 <br />
 <br />
-- Can solve systems of equations.
+- <b>Can solve systems of equations.</b>
 <br />
 <br />
-- Can calculate physics problems such as inclined plane, projectile motion, parallel RLC circuit, resonant circuits and more.
+- <b>Can calculate physics problems such as inclined plane, projectile motion, parallel RLC circuit, resonant circuits and more.</b>
 <br />
 <br />
-- Graph mathematical functions.
+- <b>Graph mathematical functions.</b>
 <br />
 <br />
-- Allows you to create simple electronic circuits and provides information based on the type of circuit and values entered.
+- <b>Allows you to create simple electronic circuits and provides information based on the type of circuit and values entered.</b>
 <br />
 <br />
-- Teaches you the topics covered in the project and allows you to take a test.
+- <b>Teaches you the topics covered in the project and allows you to take a test.
 <br />
 <br />
 The IDE (Integrated Development Environment) used to make the software project is IDLE (Python 3.9 64-bit).
