@@ -1,4 +1,4 @@
-#   Author: David Rich-Seam - w1692467
+#   Author: David
 #   Last updated: 23/04/2022
 #
 
