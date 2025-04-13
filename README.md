@@ -102,8 +102,8 @@ This is to build confidence in their knowledge and a appreciation for what they 
 <br />
 <br />
 <br /> 
-Many other functionalities of the software was not shown here. The purpose of the video and project walk-through was to showcase <br /> 
-the main functions of the software as a all-in-one, simple to use software that can be used as a teaching tool.
+Many other functionalities of the software was not shown here.<br /> The purpose of the video and project walk-through was to showcase
+the main functions of the software as a all-in-one, simple to use <br />software that can be used as a teaching tool.
 <br />
 <br />
 </p>
