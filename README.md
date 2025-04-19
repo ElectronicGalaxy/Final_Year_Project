@@ -1,7 +1,7 @@
 # Final_Year_Project
 
 <h2>Mathematical Calculator - Introduction</h2>
-For my final year project at University of Westminster, I created the "mathematical calculator" that can calculate the answers of various mathematical and physics questions. For example, the software can solve equations such as "x + 2 = 10x - 1" or "x^2 + 10x + 16". The project was made in mind for GCSE students, A-level students and those like me with a keen interest in mathematics and physics.
+For my final year project at University of Westminster, I created the "mathematical calculator" that can calculate the answers of various mathematical and physics questions. For example, the software can solve equations such as "x + 2 = 10x - 1" or "x^2 + 10x + 16". The project was created in mind for GCSE students, A-level students and those like me with a keen interest in mathematics and physics.
 <br />
 <br />
 The software was developed using Python, due to the large wealth of libraries that the language has, such as Sympy, Numpy, Tkinter, Pillow and more. These libraries are what allows the software project to perform intensive calculations within seconds.
